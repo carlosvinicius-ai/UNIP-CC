@@ -4,7 +4,7 @@ Repositório criado para postar exemplos e desafios propostos em aula para melho
 
 ## 📝 MATERIAS
 
-- <a href="#">LPOO - Linguagem de programação orientada a objetos</a>
+- <a href="https://github.com/carlosvinicius-ai/UNIP-CC/tree/master/LPOO-2022">LPOO - Linguagem de programação orientada a objetos</a>
 
 ##  **🤝 Colaboradores**
 
